@@ -1,4 +1,4 @@
-### Hi there 👋
+### VINY10
 
 <!--
 **viny8/viny8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
